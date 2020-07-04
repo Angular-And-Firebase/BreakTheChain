@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "btcd-58859": {
+      "hosting": {
+        "break-the-chain": [
+          "btcd-58859"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "btcd-58859"
+  }
+}
